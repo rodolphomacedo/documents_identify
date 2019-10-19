@@ -10,4 +10,4 @@ document identification by computer vision
 
 -------
 
-![Documents](images/documentos.jpeg)
+![Documents](images/documentos.jpg)
