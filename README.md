@@ -1,12 +1,12 @@
 # Identificação de Documentos 
 
-Identificação de documentos via visão computacional
+Identificação de documentos via visão computacional e Machine Learning
 
 -------
 
-# Documents Identify
+# Document Identifier
 
-document identification by computer vision
+Document identification by computer vision and machine learning
 
 
 -------
