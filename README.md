@@ -10,7 +10,7 @@ document identification by computer vision
 
 -------
 
-![Documents](images/docuemntos.jpeg)
+![Documents](images/documentos.jpeg)
 
 -----
 ## Instructions
