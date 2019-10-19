@@ -1,1 +1,4 @@
 /files
+source_samples/frozen_east_text_detection.pb
+source_samples/frozen_east_text_detection.tar.gz
+source_samples/matches.jpg
